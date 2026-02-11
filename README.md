@@ -145,13 +145,6 @@ The project demonstrates:
 
 ---
 
-## Deliverables
-- Final Report (PDF)
-- Video 1 – WordCount & MNIST Examples
-- Video 2 – Smart Meter Design Pipeline
-
----
-
 ## Conclusion
 This project demonstrates how Google Cloud Dataflow can serve as a scalable, fault-tolerant, and fully managed data processing platform capable of handling:
 
