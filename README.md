@@ -21,3 +21,39 @@ The milestone showcases how Dataflow can serve as a unified platform for distrib
 - Google Pub/Sub
 - TensorFlow (Pre-trained MNIST model)
 - Python 3.x
+
+## Repository Structure
+.
+├── wordcount/                  # Basic WordCount pipeline
+├── wordcount2/                 # Enhanced WordCount with branching
+├── mnist/                      # MNIST batch and streaming pipelines
+│   ├── mnistBQ.py
+│   ├── mnistPubSub.py
+│   └── setup.py
+├── design/
+│   └── smartmeterDataflow.py   # Smart meter preprocessing pipeline
+└── README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
