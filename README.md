@@ -12,7 +12,7 @@ The main objectives of this project were to:
 
 The milestone showcases how Dataflow can serve as a unified platform for distributed analytics and machine learning inference.
 
-Technologies Used
+## Technologies Used
 - Google Cloud Platform (GCP)
 - Google Cloud Dataflow
 - Apache Beam (Python SDK)
